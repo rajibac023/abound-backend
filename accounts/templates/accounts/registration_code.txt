@@ -1,0 +1,14 @@
+Verify your email
+
+Welcome to Abound Holidays.
+
+Your verification code is:
+{{ code }}
+
+Enter this code in the app to verify your email and create your account.
+It expires in {{ minutes }} minutes. Only the most recent code will work.
+
+Never share this code. If you didn’t request an account, you can ignore this email.
+Your email will not be registered unless the code is verified.
+
+Abound Holidays · Your next journey starts here.
